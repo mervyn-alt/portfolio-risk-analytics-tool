@@ -1,12 +1,13 @@
-#Portfolio Risk Analytics Tool
+# Portfolio Risk Analytics Tool
 
-Python-based portfolio analysis and optimization project
+Python-based portfolio analysis and optimization project 
 using Yahoo Finance data.
 
 ## Features
 
 - Stock data downloads
 - Portfolio return analysis
+- Correlation matrix visualization
 - Sharpe ratio
 - Monte Carlo optimization
 - Efficient frontier visualization
